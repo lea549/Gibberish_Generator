@@ -16,7 +16,7 @@ def gibberish_generate(sentence):
                 "Q": ['IQ',"EQ","KWA"],
                 "DT":["D","T","DU","TU"],
                 "L":["L"],
-                "M":["M","YM"],
+                "M":["M"],
                 "N":["N"], 
                 "R":["R","IR","YR"], 
                 "IY":["I","Y","YE","EYE"],
