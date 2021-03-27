@@ -64,7 +64,8 @@ def return_sample_gibberish():
     
     samples = ["hi bye", "Thomas Alva Edison", "a blessing in disguise", "a dime a dozen", "BEAt around the bush", "the", "UNIted Kingdom", "word",
             "My swimsuit", "LAws of Thermodynamics", "Better late than never", "Bite the bullet", "Break a leg", "Call it a day",
-            "Under the weather", "Time flies when you're having fun", "Speak of the devil", "The best of both worlds"]
+            "Under the weather", "Time flies when you're having fun", "Speak of the devil", "The best of both worlds",
+              "Opportunity never knocks twice at any man's door"]
     
     # selecting just 7 random samples to print on screen
     # random.sample() returns a new list with multiple random elements from the original list without replacement
